@@ -1,4 +1,4 @@
-## HI ##
+## Makeapp.sh ##
 
 https://gist.github.com/sanfordredlich/4568525 made into a repo
 
